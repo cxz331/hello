@@ -9,7 +9,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+	"repositories":[
+        {
+            "type":"vcs",
+            "url":"https://github.com/cxz331/hello.git"
+        }
+    ],
 	"autoload": {
 		"psr-4": {
 			"Hello\\": "src/"
