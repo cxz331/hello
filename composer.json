@@ -8,6 +8,7 @@
             "email": "372976541@qq.com"
         }
     ],
+	"require": {},
     "minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {
